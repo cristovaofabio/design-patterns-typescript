@@ -1,6 +1,12 @@
 # Design patterns with TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Creational patterns
+
+- <b>Singleton</b> - only a single instance can exist.
+- <b>Abstract Factory</b>
+- <b>Builder</b> 
+- <b>Factory Method</b> 
+- <b>Prototype</b> 
 
 ## Available Scripts
 
