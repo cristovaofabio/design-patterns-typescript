@@ -3,8 +3,8 @@
 ## Creational patterns
 
 - <b>Singleton</b> - only a single instance can exist.
+- <b>Builder</b> - builds a complex object using simple objects and using a step by step approach.
 - <b>Abstract Factory</b>
-- <b>Builder</b> 
 - <b>Factory Method</b> 
 - <b>Prototype</b> 
 
