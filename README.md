@@ -6,7 +6,7 @@
 - <b>Builder</b> - builds a complex object using simple objects and using a step by step approach.
 - <b>Prototype</b> - generates new objects using a prototypical instance copy.
 - <b>Factory Method</b> - defines an interface for creating an object, but let subclasses decide which class to instantiate
-- <b>Abstract Factory</b>
+- <b>Abstract Factory</b> - provides an interface to create object families related or dependencies without specify yours concrete classes;.
 
 ## Available Scripts
 
