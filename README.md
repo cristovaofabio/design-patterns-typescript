@@ -12,7 +12,7 @@
 
 - <b>Composite</b> - the intent of a composite is to “compose” objects into tree structures to represent part-whole hierarchies.
 - <b>Adapter</b> - the interface of a class into another interface clients expect.
-- <b>Bridge</b>
+- <b>Bridge</b> -  allows you to separate the abstraction from the implementation
 - <b>Decorator</b>
 - <b>Facade</b>
 - <b>Proxy</b>
