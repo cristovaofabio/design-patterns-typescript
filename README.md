@@ -8,6 +8,16 @@
 - <b>Factory Method</b> - defines an interface for creating an object, but let subclasses decide which class to instantiate
 - <b>Abstract Factory</b> - provides an interface to create object families related or dependencies without specify yours concrete classes;.
 
+## Structural patterns
+
+- <b>Composite</b> - the intent of a composite is to “compose” objects into tree structures to represent part-whole hierarchies.
+- <b>Adapter</b>
+- <b>Bridge</b>
+- <b>Decorator</b>
+- <b>Facade</b>
+- <b>Proxy</b>
+- <b>Flyweight</b>
+
 ## Available Scripts
 
 In the project directory, you can run:
