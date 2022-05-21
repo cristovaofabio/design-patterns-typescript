@@ -14,7 +14,7 @@
 - <b>Adapter</b> - the interface of a class into another interface clients expect.
 - <b>Bridge</b> -  allows you to separate the abstraction from the implementation.
 - <b>Decorator</b> - allows behavior to be added to an individual object, dynamically, without affecting the behavior of other objects from the same class.
-- <b>Facade</b>
+- <b>Facade</b> - provides a simplified interface to a library, a framework, or any other complex set of classes.
 - <b>Proxy</b>
 - <b>Flyweight</b>
 
