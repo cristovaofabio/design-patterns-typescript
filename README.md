@@ -15,7 +15,7 @@
 - <b>Bridge</b> -  allows you to separate the abstraction from the implementation.
 - <b>Decorator</b> - allows behavior to be added to an individual object, dynamically, without affecting the behavior of other objects from the same class.
 - <b>Facade</b> - provides a simplified interface to a library, a framework, or any other complex set of classes.
-- <b>Proxy</b>
+- <b>Proxy</b> - lets you provide a substitute or placeholder for another object.
 - <b>Flyweight</b>
 
 ## Available Scripts
