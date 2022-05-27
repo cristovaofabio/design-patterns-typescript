@@ -18,6 +18,17 @@
 - <b>Proxy</b> - lets you provide a substitute or placeholder for another object.
 - <b>Flyweight</b> - minimizes memory usage by sharing common parts of state between multiple objects.
 
+## Behavioral patterns
+
+- <b>Strategy</b> - enables selecting an algorithm at runtime.
+- <b>Memento</b>
+- <b>State</b>
+- <b>Mediator</b>
+- <b>Template method</b>
+- <b>Observer</b>
+- <b>Iterator</b>
+- <b>Visitor</b>
+
 ## Available Scripts
 
 In the project directory, you can run:
