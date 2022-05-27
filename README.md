@@ -21,6 +21,7 @@
 ## Behavioral patterns
 
 - <b>Strategy</b> - enables selecting an algorithm at runtime.
+- <b>Command</b> - used to encapsulate all information needed to perform an action or trigger an event at a later time.
 - <b>Memento</b>
 - <b>State</b>
 - <b>Mediator</b>
