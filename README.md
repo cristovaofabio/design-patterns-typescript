@@ -23,7 +23,7 @@
 - <b>Strategy</b> - enables selecting an algorithm at runtime.
 - <b>Command</b> - used to encapsulate all information needed to perform an action or trigger an event at a later time.
 - <b>Memento</b> - saves and restores the previous state of an object without revealing the details of its implementation.
-- <b>State</b>
+- <b>State</b> - allows an object to alter its behavior when its internal state change.
 - <b>Mediator</b>
 - <b>Template method</b>
 - <b>Observer</b>
