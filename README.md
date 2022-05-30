@@ -25,6 +25,7 @@
 - <b>Memento</b> - saves and restores the previous state of an object without revealing the details of its implementation.
 - <b>State</b> - allows an object to alter its behavior when its internal state change.
 - <b>Mediator</b> - defines an object that encapsulates how a set of objects interact.
+- <b>Chain of Responsibility</b> - Gives more than one object a chance to handle the request.
 - <b>Template method</b>
 - <b>Observer</b>
 - <b>Iterator</b>
