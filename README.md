@@ -26,7 +26,7 @@
 - <b>State</b> - allows an object to alter its behavior when its internal state change.
 - <b>Mediator</b> - defines an object that encapsulates how a set of objects interact.
 - <b>Chain of Responsibility</b> - Gives more than one object a chance to handle the request.
-- <b>Template method</b>
+- <b>Template method</b> - lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
 - <b>Observer</b>
 - <b>Iterator</b>
 - <b>Visitor</b>
