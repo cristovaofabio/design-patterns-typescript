@@ -28,7 +28,7 @@
 - <b>Chain of Responsibility</b> - Gives more than one object a chance to handle the request.
 - <b>Template method</b> - lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
 - <b>Observer</b> - lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they are observing.
-- <b>Iterator</b>
+- <b>Iterator</b> - an iterator is used to traverse a container and access the container's elements.
 - <b>Visitor</b>
 
 ## Available Scripts
